@@ -34,7 +34,7 @@ In the repository you will find all the necessary files to print and assemble yo
 
 ## Materials and printing
 The exoskeleton is primarily printed on a Prusa MK3s and a Prusa XL 5T in red varioShore TPU from Colorfabb. It is printed using their recommended settings, at a nozzle temperature of 220°C
-The StretchSense sensor is made of Conductive Filaflex TPU from Recreus, again dried and printed using their recommended settigns on a Prusa MK3s 
+The StretchSense sensor is made of Conductive Filaflex TPU from Recreus, again dried and printed using their recommended settigns on a Prusa MK3s at a nozzle temeperature of 240°C
 
 ## Environment
 Python version: 3.11

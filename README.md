@@ -1,5 +1,5 @@
 # SoFiE: Soft Finger Exoskeleton for Intelligent Grasping
-Soft, wearable, 3D printable, and modular exoskeleton.
+Soft, wearable, 3D printable, and modular exoskeleton with integrated tactile and proprioceptive sensing.
 ## NOTE
 This work is part of an ongoing master thesis project. Certain implementations, refinements, and code structure optimizations are still under development.
 

@@ -30,6 +30,7 @@ In the repository you will find all the necessary files to print and assemble yo
 * Pololu DRV8835 Dual Motor driver
 * 7.4 V, 1000 mAh, 2S LiPo battery
 * 1 k Ohm resistors for StretchSense voltage divider
+* Flexible braieded thin steel wire
 * Assortment of resistors, capacitors and an opAmp for current sense if wanted.
 
 ## Materials and printing
